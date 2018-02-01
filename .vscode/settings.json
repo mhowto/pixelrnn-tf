@@ -1,0 +1,13 @@
+{
+    "python.pythonPath": "/home/shauk/.conda/envs/tensorflow1.1/bin/python",
+    "python.unitTest.unittestArgs": [
+        "-v",
+        "-s",
+        "./tests",
+        "-p",
+        "*_test.py"
+    ],
+    "python.unitTest.unittestEnabled": true,
+    "python.unitTest.pyTestEnabled": false,
+    "python.unitTest.nosetestsEnabled": false
+}
